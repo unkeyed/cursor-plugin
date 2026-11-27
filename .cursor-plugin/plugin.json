@@ -1,0 +1,13 @@
+{
+  "name": "unkey",
+  "version": "1.0.0",
+  "description": "Connects Cursor to Unkey's MCP server so agents can manage Unkey APIs, keys, rate limits and Unkey's compute platform deployments.",
+  "author": {
+    "name": "Unkey",
+    "email": "support@unkey.com"
+  },
+  "homepage": "https://www.unkey.com/docs/platform/ai-coding/cursor",
+  "repository": "https://github.com/unkeyed/cursor-plugin",
+  "license": "MIT",
+  "logo": "assets/logo.svg"
+}
